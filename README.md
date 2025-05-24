@@ -6,9 +6,9 @@ In diesem Repository lade ich kleine Projekte, Skripte, LeetCode-Lösungen und �
 
 ## ✨ Inhalte
 
-- 🔹 Kleine eigenständige Projekte  
-- 🔹 Lösungen zu Programmieraufgaben (z. B. LeetCode)  
-- 🔹 Code-Snippets und Experimente  
+- Kleine eigenständige Projekte  
+- Lösungen zu Programmieraufgaben (z. B. LeetCode)  
+- Code-Snippets und Experimente  
 
 ## 🛠️ Verwendete Sprachen
 
